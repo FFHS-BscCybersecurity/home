@@ -6,6 +6,14 @@ Diese Seite bildet das Inhaltsverzeichnis für das gesamte Studium bzw. für die
 
 ## Module
 
-### DMathLS - Diskrete Mathematik und lineare Systeme
+### [DMathLS - Diskrete Mathematik und lineare Systeme](https://github.com/FFHS-BscCybersecurity/FFHS-DMathLS)
 
-### GIT - Grundlagen technische Informatik
+### [GTI - Grundlagen technische Informatik](https://github.com/FFHS-BscCybersecurity/FFHS-GTI)
+
+### [OEM - Online Einführung Mathematik](https://github.com/FFHS-BscCybersecurity/FFHS-OEM)
+
+## Andere Themen
+
+### [Latex](https://github.com/FFHS-BscCybersecurity/FFHS-Latex)
+
+### [Wissensmanagement](https://github.com/FFHS-BscCybersecurity/Studium-KnowledgeManagement)

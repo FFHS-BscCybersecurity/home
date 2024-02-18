@@ -12,6 +12,10 @@ Diese Seite bildet das Inhaltsverzeichnis für das gesamte Studium bzw. für die
 
 ### [OEM - Online Einführung Mathematik](https://github.com/FFHS-BscCybersecurity/FFHS-OEM)
 
+### [PyF - Python Fundamentals](https://github.com/FFHS-BscCybersecurity/FFHS-PyF)
+
+### [IKS - Installation und Konfiguration von Serverdiensten (Linux)](https://github.com/FFHS-BscCybersecurity/FFHS-IKS)
+
 ## Andere Themen
 
 ### [Latex](https://github.com/FFHS-BscCybersecurity/FFHS-Latex)
